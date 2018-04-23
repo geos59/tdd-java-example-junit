@@ -1,5 +1,5 @@
 language: java
 jdk: oraclejdk8
-- oraclejdk7
-- oraclejdk6
+jdk: oraclejdk7
+jdk: oraclejdk6
 # This is a commment
