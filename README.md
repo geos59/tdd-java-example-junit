@@ -6,4 +6,4 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/geos59/tdd-java-example-junit)
 
 # Number of Downloads
-[![Github Releases](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)](https://github.com/geos59/tdd-java-example-junit)
+[![npm](https://img.shields.io/npm/dt/express.svg)](https://github.com/geos59/tdd-java-example-junit)
