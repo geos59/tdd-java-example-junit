@@ -1,5 +1,4 @@
 language: java
-jdk: oraclejdk8
-jdk: oraclejdk7
-jdk: oraclejdk6
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
 # This is a commment
